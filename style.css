@@ -1,0 +1,168 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* all button */
+.button{
+    background-color:#21B573;
+    color: white;
+    border: none;
+    border-radius: 33px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color:purple;
+    color: white;
+    border: none;
+    border-radius: 33px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+/* navbar */
+#logo{
+    width: 198.07px;
+    height: 59px;
+    
+}
+nav{
+    background-color:#0000 ;
+}
+
+/* header */
+#header{
+background: #F0FFF0;
+height: 565px;
+}
+/* header image */
+#header-img{
+    padding-top: 7%;
+}
+#tagline{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+#tagline-question{
+    color: #FD511A;
+}
+#schdule{
+    color:#21B573;
+}
+
+/*  cards part -1 */
+.cards-1{
+    padding-top: 4%;
+}
+.cards-1-img{
+    height: 85px;
+    width: 66px;
+    margin-top: 20%;
+}
+.cards-1-text{
+    text-align: center;
+}
+.cards-1-text h5{
+    font-size: 24px;
+}
+.cards-1-text p{
+    font-size: 16px;
+    color: #585859;
+}
+.cards-1-color{
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.cards-1-color:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* cards part 2 */
+.cards-2{
+    padding-top: 7%;
+}
+.cards-2 h1{
+    text-align: center;
+    padding-bottom: 7%;
+    line-height: 54px;
+    color: #413960;
+}
+.card-2-color{
+    width: 370px;
+    height: 483px;
+
+
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.cards-2-img{
+    border-radius: 11px;
+    padding-top: 6%;
+    padding-left: 4%;
+    padding-right: 4%;
+    
+} 
+
+.card-bottom{
+    text-align: center;
+    padding-bottom: 5%;
+    padding top: 20%;
+}  
+.card-footer-icon{
+    width: 24px;
+    height: 24px;
+}  
+.people-icon{
+    margin-left: 100px;
+}
+.card-bottom-left-img{
+    margin-left: 5px;
+    margin-right: 20px;
+}
+.card-bottom-right-img{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+/* testimonial */
+#testimonial-heading{
+    text-align: center;
+    line-height: 54px;
+    padding: 7% 0% ;
+    
+}
+#man-img{
+    width: 120px;
+    height: 120px;
+    margin-left: 55%;
+}
+#testimonial-details{
+    padding-bottom: 8%;
+}
+
+/* bottompart */
+#bottom{
+    color: white;
+    background:  #282531;
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+#article{
+    
+    margin-top: -10%;
+
+}
+ul{
+    list-style: none
+}
+footer{
+    text-align: center;
+    color: white;
+    position: bottom;
+    background: #282531 ;
+    padding-bottom: 15px;
+}
+
